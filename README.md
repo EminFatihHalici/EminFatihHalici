@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Software developer in training, exploring JavaScript, frontend, and backend development. I enjoy turning ideas into real projects and improving my skills every day.</p>
+<p align="left">Software developer in training, exploring JavaScript and frontend development. I enjoy turning ideas into real projects and improving my skills every day.</p>
 
 ###
 
