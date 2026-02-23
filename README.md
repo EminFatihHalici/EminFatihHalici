@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning JavaScript<br>🎯 Goals: become a senior developer<br>🎲 Fun fact: I once tried to debug a bug for hours, only to realize it was a missing semicolon. 🙃</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Angular<br>🎯 Goals: become a senior developer<br>🎲 Fun fact: I once tried to debug a bug for hours, only to realize it was a missing semicolon. 🙃</p>
 
 ###
 
